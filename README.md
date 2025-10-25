@@ -1,3 +1,8 @@
+[https:](https://mern-food-ordering.netlify.app/)
+
+
+
+
 # Restaurant Food Ordering Management System - React, Express.js FullStack MERN Project (including Business-Insights Dashboard)
 
 ![Screenshot 2025-09-01 at 15 44 06](https://github.com/user-attachments/assets/ca1e8188-6070-4742-893b-c4e75f27286e)
